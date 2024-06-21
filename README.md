@@ -1,7 +1,3 @@
-Here's a detailed README.md for your GitHub project:
-
----
-
 # Brain Tumor MRI Classification using Deep Learning
 
 ## Overview
